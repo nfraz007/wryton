@@ -48,7 +48,7 @@
     </div>
 </div>
 <div class="w3-row w3-teal">
-    <p>Created by <a href="http://nfraz.co.nf" target="_blank">Nazish Fraz</a></p>
+    <p>Created by <a href="http://nfraz.co.in" target="_blank">Nazish Fraz</a></p>
 </div>
 </body>
 </html>
